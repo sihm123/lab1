@@ -1,4 +1,4 @@
-Samantha Ihm
+//Samantha Ihm
 //08 Sept 2024
 //CPSC lab 1
 //compoundCalc.cpp
