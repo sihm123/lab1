@@ -7,7 +7,7 @@
 
 
 
-#include:wq:#include <iostream>
+#include <iostream>
 #include <cmath>
 #include "compoundCalc.h"
 
